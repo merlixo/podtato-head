@@ -1,2 +1,2 @@
-image: yogeek/podtatohead:v0.1.2
+image: merlixo/podtatohead:v0.1.2
 replicaCount: 1

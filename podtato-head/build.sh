@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPOSITORY="yogeek"
+REPOSITORY="merlixo"
 
 TAG="0.1.0"
 

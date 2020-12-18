@@ -20,7 +20,7 @@ spec:
       terminationGracePeriodSeconds: 5
       containers:
       - name: server
-        image: yogeek/podtatohead:latest
+        image: merlixo/podtatohead:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 9000
